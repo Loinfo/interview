@@ -1,0 +1,34 @@
+1.请介绍一下JVM内存模型
+
+2.线上发送频繁full gc如何处理？cpu使用率过高怎么办
+  如何定位问题？如何解决说一下解决思路和处理方法
+3.知道字节码吗？字节码都有那些？ Integer x=5,int y=5,比较x=y经过哪些步骤？
+
+4.讲讲类加载机制，都有哪些类加载器，这些类加载器都加载哪些文件
+手动写一个demo
+5.知道osgi吗？他是如何实现的？
+6.请问你做过哪些JVM优化？使用什么方法达到什么效果
+
+7.classforName("java.lang.String")和StringclassgetClassLoader() LoadClass("java.lang.String")有什么区别？
+
+理解性能调优：
+  1.性能基准
+  2.性能调优到底是什么
+  3.衡量维度
+JVM调优篇：
+  1.知其然，知其所以然
+  2.什么事JVM运行时数据区
+  3.什么是JVM内存模型JMM
+  4.各种垃圾回收器使用场景（Throughput\CMS)
+  5.理解GC日志，从日志看端倪
+  6.实战MAT分析dump文件
+Tomcat调优篇
+  1.他是如何工作的？探查tomcat的运行机制及框架
+  2.分析tomcat线程模型
+  3.tomcat系统参数认识及调优
+  4.基准测试
+Mysql调优篇
+  1.理解Mysql底层B+Tree机制
+  2.SQL执行计划详解
+  3.索引优化详解
+  4.SQL语句优化
