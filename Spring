@@ -1,3 +1,11 @@
 1.spring都有哪些机制，AOP底层如何实现的IOC？
 2.cgLib知道吗？他和jdk动态代理什么区别？手动写一个jdk动态代理
-
+3.IOC容器设计原理及高级特性
+4.AOP设计原理
+5.FactoryBean与BeanFactory
+6.Spring事务处理机制
+7.基于Spring JDBC手写ORM框架
+8.SpringMVC九大组件
+9.手写实现Spring MVC框架
+10.SpringMVC与Struts2对比分析
+11.Spring5的新特性
